@@ -1,0 +1,24 @@
+{
+  "buildtime_and_runtime": {
+    "image_host_url": ""
+  },
+  "buildtime": {
+    "hot": false,
+    "dashboard": false,
+    "uglify": true,
+    "analyze": false,
+    "origin_server": {
+      "ip": "0.0.0.0",
+      "port": "5000"
+    }
+  },
+  "runtime": {
+    "sourcemap": false,
+    "debug": false,
+    "language": "zh-CN",
+    "api": {
+      "host": "https://backend-test.codemao.cn",
+      "port": "443"
+    }
+  }
+}
